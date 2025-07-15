@@ -1,0 +1,11 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Ejemplo básico de GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"✅ Prueba pasada correctamente\" && exit 0"
+  },
+  "author": "Yahir",
+  "license": "MIT"
+}
